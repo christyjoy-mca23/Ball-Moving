@@ -13,13 +13,7 @@
 2. **Enhanced User Interaction:**
    Add event listeners to allow user interaction, such as starting, pausing, or resetting the animation.
 
-3. **More Dynamic Styling:**
-   Use CSS classes and JavaScript to dynamically change the ball's style during the animation, creating more visually appealing effects.
-
-4. **Optimize Animation:**
-   Adjust the animation speed, easing functions, or interval time for a smoother and more engaging animation.
-
-5. **Code Refactoring:**
+3. **Code Refactoring:**
    Organize the code into functions, use meaningful variable names, and add comments for better readability and maintainability.
 
 **To run the code:**

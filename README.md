@@ -1,5 +1,4 @@
- This HTML and JavaScript code create a simple bouncing ball animation within a specified area. The ball moves back and forth horizontally and vertically, bouncing off the boundaries.
-
+# Ball_Moving
 **Description:**
 
 - The HTML file contains a `div` element representing the ball, styled with CSS to give it a red color and a circular shape.
